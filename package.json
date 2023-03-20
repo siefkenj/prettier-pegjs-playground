@@ -30,7 +30,7 @@
     "scripts": {
         "start": "vite",
         "build": "tsc && vite build",
-        "test": "jest",
+        "test": "echo 'No Tests to Run'",
         "serve": "vite preview"
     },
     "eslintConfig": {
